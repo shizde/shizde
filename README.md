@@ -1,6 +1,8 @@
-- bears. beets. battlestar galactica.
-🇧🇷 | ⚪⭐⚫
-💻 C, C++, Python and LISP 
-📫 rafaelsperez@vivaldi.net
+# Nothing special
 
-# Another useless comment.
+- bears. beets. battlestar galactica.
+- 🇧🇷 | ⚪⭐⚫
+- 💻 C, C++, Python and LISP 
+- 📫 rafaelsperez@vivaldi.net
+
+; Another useless comment.
