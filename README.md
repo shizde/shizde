@@ -1,8 +1,10 @@
-# Nothing special
+# Hello, stranger
+
+; Always comment your code
 
 - bears. beets. battlestar galactica.
 - 🇧🇷 | ⚪⭐⚫
-- 💻 C, C++, Python and LISP 
+- 💻 C, C++, Python, LISP, Java and Perl. 
 - 📫 rafaelsperez@vivaldi.net
 
 ; Another useless comment.
