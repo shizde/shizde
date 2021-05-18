@@ -1,7 +1,10 @@
 # Hello, stranger
 
-
-aka Rafael Perez
+```
+(defun stupid-print ()
+  (print (list 'AKA 'Rafael 'Perez))
+)
+```
 ;; Always comment your code
 
 - bears. beets. battlestar galactica.
